@@ -1,8 +1,8 @@
 <div align="center">
-# Uasim Halak 
   
 <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" alt="Coding GIF"/>
 
+# Uasim Halak 
 
 Software Developer with a curious mind.  
 I create, explore, and push boundaries — from building applications to experimenting with AI and ethical hacking.  
