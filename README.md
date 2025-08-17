@@ -1,16 +1,21 @@
-## Hi there 👋
+# Uasim Halak  
 
-<!--
-**uasim1702/uasim1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a curious mind.  
+I create, explore, and push boundaries — from building applications to experimenting with AI and ethical hacking.  
+Always learning, always moving forward.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects  
+
+- **[Moodle E-learning Platform](https://github.com/Projects-A69/Moodle)**  
+- **[Forum Web Application](https://github.com/Projects-A69/Forum-app)**  
+- **[Moodle Frontend](https://github.com/Projects-A69/Moodle-frontend)**  
+- **[Logistics App](https://github.com/Logistics-App-OOP/Logistics-App)**  
+- **[ML Titanic Survival Prediction](https://github.com/uasim1702/ML-Titanic_Survival_-Prediction_project)**  
+
+---
+
+## Contact  
+
+[LinkedIn](http://linkedin.com/in/uasim-halak-69a266286) · [GitHub](https://github.com/uasim1702) · uasim1702@abv.bg  
