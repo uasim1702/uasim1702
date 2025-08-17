@@ -1,4 +1,6 @@
-![Working Locked In](https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif)
+<div align="center">
+
+<img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" alt="Coding GIF"/>
 
 # Uasim Halak  
 
