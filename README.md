@@ -1,3 +1,5 @@
+![Working Locked In](https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif)
+
 # Uasim Halak  
 
 Software Developer with a curious mind.  
