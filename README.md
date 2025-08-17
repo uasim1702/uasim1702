@@ -1,12 +1,18 @@
 <div align="center">
-  
-<img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" alt="Coding GIF"/>
 
-# Uasim Halak 
+# Uasim Halak  
 
-Software Developer with a curious mind.  
-I create, explore, and push boundaries — from building applications to experimenting with AI and ethical hacking.  
+**Software Developer with a curious mind.**  
+I create, explore, and push boundaries - from building applications to experimenting with AI and ethical hacking.  
 Always learning, always moving forward.  
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" alt="Coding GIF"/>
+</div>
 
 ---
 
@@ -22,4 +28,4 @@ Always learning, always moving forward.
 
 ## Contact  
 
-[LinkedIn](http://linkedin.com/in/uasim-halak-69a266286) · [GitHub](https://github.com/uasim1702) · uasim1702@abv.bg  
+**[LinkedIn](http://linkedin.com/in/uasim-halak-69a266286)** · **[GitHub](https://github.com/uasim1702)** · **uasim1702@abv.bg**
