@@ -18,12 +18,12 @@ Always learning, always moving forward.
 
 ## Projects  
 
-- **[Moodle E-learning Platform](https://github.com/Projects-A69/Moodle)**  
-- **[Moodle Frontend](https://github.com/Projects-A69/Moodle-frontend)**  
+- **[Moodle E-learning Platform](https://github.com/Projects-A69/Moodle)** + **[Moodle Frontend](https://github.com/Projects-A69/Moodle-frontend)**  
 - **[Forum Web Application](https://github.com/Projects-A69/Forum-app)**  
 - **[Logistics App](https://github.com/Logistics-App-OOP/Logistics-App)**  
-- **[ML Titanic Survival Prediction](https://github.com/uasim1702/ML-Titanic_Survival_-Prediction_project)**
 - **[LLM for hotels](https://github.com/uasim1702/LocalLLM-hotels)**
+- **[ML Titanic Survival Prediction](https://github.com/uasim1702/ML-Titanic_Survival_-Prediction_project)**
+
 ---
 
 ## Contact  
